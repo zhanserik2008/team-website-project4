@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded", () => { alert("Сәлем, Жансерік! Сайт сәтті жүктелді 🚀"); });
